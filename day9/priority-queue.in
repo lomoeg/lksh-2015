@@ -1,0 +1,8 @@
+ADD RT 5
+ADD two 2
+ADD one 1
+ADD three 3
+ADD GH 8
+ADD B 10
+CHANGE one 5
+
